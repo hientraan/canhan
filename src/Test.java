@@ -9,7 +9,7 @@ public class Test{
                     }
                     System.out.println("(x variable, y variable, z variable) = ("+x+","+y+","+z+")");
                 }
-            }
+            }fwefwefwerfwqwed
         }
     }
 }
