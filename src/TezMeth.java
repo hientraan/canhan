@@ -29,11 +29,16 @@ public class TezMeth {
         thisMeth("Kane",22);
     }
      */
-    static int thisMeth(int a, int b){
+    static int thisMethplus(int a, int b){
         return b + a;
     }
+    static double thisMethplus(double a, double b){
+        return a + b;
+    }
     public static void main(String[] args){
-        int c = thisMeth(5000, 50);
-        System.out.println(c);
+        int c = thisMethplus(80, 50);
+        double d = thisMethplus(6.3 , 8.26);
+        System.out.println("The int number: "+c);
+        System.out.println("The double number: " +d);
     }
 }
