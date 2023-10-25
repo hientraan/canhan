@@ -14,12 +14,12 @@ public class TezRecursion {
     } */
     //EXP Halting Condition
     public static void main(String[] args){
-        int theInt = summingUp (50, 100);
+        int theInt = summingUp (10, 20);
         System.out.println("This is result: "+ theInt);
     }
-    public static Int summingUp(int thestart, int theend){
+    public static int summingUp(int thestart, int theend){
 
-        if (theend>thestart){
+        if (theend > thestart){
             System.out.println("This is item: "+ theend);
             return theend + summingUp(thestart,theend-1);
         }
