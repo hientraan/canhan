@@ -1,7 +1,7 @@
 public class TezKeyWorld {
-    //This is the Instance sum of variables
+  /*  //This is the Instance sum of variables
     int number = 100;
-    ThisKeyword(){
+    //ThisKeyword(){
         System.out.println("This is a brilliant example program built around the keyword this");
     }
     ThisKeyword(int number){
@@ -25,8 +25,10 @@ public class TezKeyWorld {
     }
     public static void main(String[] args){
         //I am now instantiating a class
-        ThisKeyword objectA = new ThisKeyword();
+       ThisKeyword objectA = new ThisKeyword();
         //I am now Invoking my print method
         objectA.printing();
     }
+
+   */
 }
