@@ -1,10 +1,10 @@
-public class TezKeyWorld {
-  /*  //This is the Instance sum of variables
+public class ThisKeyWord {
+    //This is the Instance sum of variables
     int number = 100;
-    //ThisKeyword(){
+    ThisKeyWord(){
         System.out.println("This is a brilliant example program built around the keyword this");
     }
-    ThisKeyword(int number){
+    ThisKeyWord(int number){
         //I am invoking default constructor in the following step
         this();
         //I am assigning a local variable number to instance variable number
@@ -25,10 +25,10 @@ public class TezKeyWorld {
     }
     public static void main(String[] args){
         //I am now instantiating a class
-       ThisKeyword objectA = new ThisKeyword();
+       ThisKeyWord objectA = new ThisKeyWord();
         //I am now Invoking my print method
         objectA.printing();
     }
 
-   */
+
 }
